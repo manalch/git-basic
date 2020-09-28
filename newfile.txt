@@ -1,2 +1,4 @@
-Updated the new file
-Additional changes made here in github
+Difference of add, commit and push is that,
+"add" is use to stage any unstage files/changes you did in your repository that you are about to commit.
+"commit" is commiting file to your local repository does other people who have cloned that repository cannot see it your updated files/changes.
+"push" is use to apply your files/changes to the origin so other people who cloned that repository will be able to see and base to the files/changes you have done by pulling the repo.
